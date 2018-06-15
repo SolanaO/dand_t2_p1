@@ -1,2 +1,7 @@
-# dand_t2_p1
-This is the first project in the second term of Data Analyst Nanodegree with Udacity.
+# Test a Perceptual Phenomenon
+
+## Overview
+
+In this project, we use descriptive statistics and a statistical test to analyze the Stroop effect, a classic
+result of experimental psychology. We communicate our understanding of the data and we use statistical
+inference to draw a conclusion based on the results.
